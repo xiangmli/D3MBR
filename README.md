@@ -26,26 +26,23 @@ The hyperparameters corresponding to different downstream MBR models and dataset
 
 ### MBGCN
 
-- beibeild32_nl2_ep50_lr0.001_dlr0.001_d[200,600]_ad[300]_st3_ns0.005_nm0.005_nx0.01_ss0_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8'
-- IJCAI_15ld32_nl2_ep50_lr0.0001_dlr0.0005_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8'
-- Tmallld32_nl2_ep50_lr0.001_dlr0.0001_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8'
+- beibeild32_nl2_ep50_lr0.001_dlr0.001_d[200,600]_ad[300]_st3_ns0.005_nm0.005_nx0.01_ss0_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8_esfalse_se0'
+- IJCAI_15ld32_nl2_ep50_lr0.0001_dlr0.0005_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8_esfalse_se0'
+- Tmallld32_nl2_ep50_lr0.001_dlr0.0001_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8_esfalse_se0'
 
 ### CRGCN
 
-- 'beibeild32_nl2_ep50_lr0.001_dlr0.001_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8'
-
-- 'IJCAI_15ld32_nl2_ep50_lr0.0001_dlr0.0001_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8'
-
-- 'Tmallld32_nl2_ep50_lr0.0001_dlr0.0001_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8'
+- 'beibeild32_nl2_ep50_lr0.001_dlr0.001_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8_esfalse_se0'
+- 'IJCAI_15ld32_nl2_ep50_lr0.0001_dlr0.0001_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8_esfalse_se0'
+- 'Tmallld32_nl2_ep50_lr0.0001_dlr0.0001_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8_esfalse_se0'
 
   
 
 ### BIPN
 
-- 'beibeild32_nl2_ep50_lr0.0001_dlr0.0001_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8
-
-- 'IJCAI_15ld32_nl2_ep50_lr0.0001_dlr0.0001_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.9'
-- 'Tmallld32_nl2_ep50_lr0.0001_dlr0.0005_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8'
+- 'beibeild32_nl2_ep50_lr0.0001_dlr0.0001_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8_esfalse_se0'
+- 'IJCAI_15ld32_nl2_ep50_lr0.0001_dlr0.0001_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.9_esfalse_se0'
+- 'Tmallld32_nl2_ep50_lr0.0001_dlr0.0005_d[200,600]_ad[300]_st2_ns0.005_nm0.005_nx0.01_ss2_rwTrue_al0.1_be0.2_rsTrue_kr0.8_ktr0.8_esfalse_se0'
 
 
 
